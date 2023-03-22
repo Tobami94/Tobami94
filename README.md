@@ -15,7 +15,7 @@ Realice algunos proyectos de páginas web comerciales como no, encargándome pri
 
 <h3> <b>const perfilPersonal = require('./user/thoughts.js'); 🌙</b></h3>
 
-Soy una chica entusiasta, siempre con ganas de aprender y trabajar en equipo. Me apasiono desde muy joven el diseño y la programación, en un principio lo hice como un hobbie, pero con el transcurrir del tiempo lo perfeccioné cada vez más. 
+Soy una chica entusiasta, siempre con ganas de aprender y trabajar en equipo. Me apasionó desde muy joven el diseño y la programación, en un principio lo hice como un hobbie, pero con el transcurrir del tiempo lo perfeccioné cada vez más. 
 Poseo un pensamiento creativo, me encanta la resolución de problemas y la autonomía. 
 Me considero una persona amable y capaz de respetar a los demás, sin prejuicios y/o malicia.
 
