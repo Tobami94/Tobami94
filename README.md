@@ -4,7 +4,7 @@
 
  <h1 align="center">Hi 👋, I'm Malena Paraschuk</h1>
  
-<h3 align="center">A passionate about design and programming from Argentina</h3>
+<h3 align="center">A passionate about design and programming from Spain</h3>
 
 <br></br>
 <br></br>
