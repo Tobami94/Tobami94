@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **malenaparaschuk@gmail.com**
 
+- 🤩 More about me <a href="https://tobami94.github.io/malenaparaschuk/">Portfolio</a>
+
 - ⚡ I like **I really like cats and animation.**
 
 <h3 align="left">Connect with me:</h3>
