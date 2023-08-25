@@ -1,5 +1,6 @@
 
-![logo_github](https://user-images.githubusercontent.com/94648542/226772127-95dca637-a1c4-4909-90a4-92283e94431a.png)
+
+![frontend__malena_parasch](https://github.com/Tobami94/Tobami94/assets/94648542/f6f50250-d9d0-439a-bb1b-2a6e6c86133b)
 
 
  <h1 align="center">Hi 👋, I'm Malena Paraschuk</h1>
