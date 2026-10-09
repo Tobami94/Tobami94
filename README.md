@@ -3,7 +3,7 @@
 ![frontend__malena_parasch](https://github.com/Tobami94/Tobami94/assets/94648542/f6f50250-d9d0-439a-bb1b-2a6e6c86133b)
 
 
- <h1 align="center">Hi 👋, I'm Malena Paraschuk</h1>
+ <h1 align="center">Hi 👋, I'm Malena</h1>
  
 <h3 align="center">A passionate about design and programming from Spain</h3>
 
@@ -13,8 +13,6 @@
 - 🌱 I’m currently learning **PHP and Docker**
 
 - 💬 Ask me about **React, NodeJs and Javascript**
-
-- 📫 How to reach me **malenaparaschuk@gmail.com**
 
 - 🤩 More about me  <a href="https://tobami94.github.io/DeParaschuk/">Portfolio</a>
 
